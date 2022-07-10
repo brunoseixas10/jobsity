@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LpvG6QAoCt6cpc0lBQKfQOdCBCnqeIA0Q+Z0/r2ZUjF84IS6rTNitcAPqKtyi0kLi0jCHAnfljVApXZb1zPj4Q==",
+  "success": true,
+  "projectFilePath": "E:\\Projetos\\jobsity\\src\\server\\ChatApp.Entity\\ChatApp.Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruno\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

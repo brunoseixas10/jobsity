@@ -1,0 +1,12 @@
+E:\Projetos\jobsity\src\server\ChatApp.Entity\bin\Debug\net6.0\ChatApp.Entity.deps.json
+E:\Projetos\jobsity\src\server\ChatApp.Entity\bin\Debug\net6.0\ChatApp.Entity.dll
+E:\Projetos\jobsity\src\server\ChatApp.Entity\bin\Debug\net6.0\ChatApp.Entity.pdb
+E:\Projetos\jobsity\src\server\ChatApp.Entity\obj\Debug\net6.0\ChatApp.Entity.csproj.AssemblyReference.cache
+E:\Projetos\jobsity\src\server\ChatApp.Entity\obj\Debug\net6.0\ChatApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\jobsity\src\server\ChatApp.Entity\obj\Debug\net6.0\ChatApp.Entity.AssemblyInfoInputs.cache
+E:\Projetos\jobsity\src\server\ChatApp.Entity\obj\Debug\net6.0\ChatApp.Entity.AssemblyInfo.cs
+E:\Projetos\jobsity\src\server\ChatApp.Entity\obj\Debug\net6.0\ChatApp.Entity.csproj.CoreCompileInputs.cache
+E:\Projetos\jobsity\src\server\ChatApp.Entity\obj\Debug\net6.0\ChatApp.Entity.dll
+E:\Projetos\jobsity\src\server\ChatApp.Entity\obj\Debug\net6.0\refint\ChatApp.Entity.dll
+E:\Projetos\jobsity\src\server\ChatApp.Entity\obj\Debug\net6.0\ChatApp.Entity.pdb
+E:\Projetos\jobsity\src\server\ChatApp.Entity\obj\Debug\net6.0\ref\ChatApp.Entity.dll

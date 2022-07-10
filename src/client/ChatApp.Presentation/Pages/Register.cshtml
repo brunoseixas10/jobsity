@@ -1,0 +1,16 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Chat App - Register";
+}
+<div class="text-center">
+    <h1 class="display-4">Chat-App Register</h1>
+    <form method="post">
+        Login:
+        <input asp-for="AppUser.Name" type="text" />
+        Password:<input asp-for="AppUser.Password" type="password" /><br />
+        <input type="submit" value="Add User" /><br/><br/>
+        <font color="red">@ViewData["AddUserFeedback"]</font>
+    </form>
+</div>
+
